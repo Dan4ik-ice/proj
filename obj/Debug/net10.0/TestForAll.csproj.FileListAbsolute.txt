@@ -1,0 +1,15 @@
+C:\Users\Давуд\source\repos\TestForAll\bin\Debug\net10.0\TestForAll.exe
+C:\Users\Давуд\source\repos\TestForAll\bin\Debug\net10.0\TestForAll.deps.json
+C:\Users\Давуд\source\repos\TestForAll\bin\Debug\net10.0\TestForAll.runtimeconfig.json
+C:\Users\Давуд\source\repos\TestForAll\bin\Debug\net10.0\TestForAll.dll
+C:\Users\Давуд\source\repos\TestForAll\bin\Debug\net10.0\TestForAll.pdb
+C:\Users\Давуд\source\repos\TestForAll\obj\Debug\net10.0\TestForAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Давуд\source\repos\TestForAll\obj\Debug\net10.0\TestForAll.AssemblyInfoInputs.cache
+C:\Users\Давуд\source\repos\TestForAll\obj\Debug\net10.0\TestForAll.AssemblyInfo.cs
+C:\Users\Давуд\source\repos\TestForAll\obj\Debug\net10.0\TestForAll.csproj.CoreCompileInputs.cache
+C:\Users\Давуд\source\repos\TestForAll\obj\Debug\net10.0\TestForAll.dll
+C:\Users\Давуд\source\repos\TestForAll\obj\Debug\net10.0\refint\TestForAll.dll
+C:\Users\Давуд\source\repos\TestForAll\obj\Debug\net10.0\TestForAll.pdb
+C:\Users\Давуд\source\repos\TestForAll\obj\Debug\net10.0\TestForAll.genruntimeconfig.cache
+C:\Users\Давуд\source\repos\TestForAll\obj\Debug\net10.0\ref\TestForAll.dll
+C:\Users\Давуд\source\repos\TestForAll\obj\Debug\net10.0\TestForAll.csproj.Up2Date
